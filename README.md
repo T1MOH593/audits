@@ -24,10 +24,10 @@ Feel free to reach out for security review via [X](https://twitter.com/0xT1MOH) 
 
 | [Axelar](https://code4rena.com/audits/2023-07-axelar-network#top)                                                 | July      2023 | Code4rena | [Link](/contests/Axelar/findings.md)               | 9/146    |
 | [Maia DAO](https://code4rena.com/audits/2023-05-maia-dao-ecosystem#top)                                           | June      2023 | Code4rena | [Link](/contests/MaiaDAO/findings.md)              | 8/168    |
-| [Llama](https://code4rena.com/audits/2023-06-llama#top)                                                           | June      2023 | Code4rena | [Link](/contests/Llama/findings.md)                | 8/       |
-| [Stader](https://code4rena.com/audits/2023-06-stader-labs#top)                                                    | June      2023 | Code4rena | [Link](/contests/Stader/findings.md)               | 17/      |
+| [Llama](https://code4rena.com/audits/2023-06-llama#top)                                                           | June      2023 | Code4rena | [Link](/contests/Llama/findings.md)                | 8/107    |
+| [Stader](https://code4rena.com/audits/2023-06-stader-labs#top)                                                    | June      2023 | Code4rena | [Link](/contests/Stader/findings.md)               | 17/121   |
 | [USSD](https://audits.sherlock.xyz/contests/82)                                                                   | May       2023 | Sherlock  | [Link](/contests/USSD/findings.md)                 | 2/152    |
-| [Juicebox](https://code4rena.com/audits/2023-05-juicebox-buyback-delegate#top)                                    | May       2023 | Code4rena | Not public                                         | 16/      |
+| [Juicebox](https://code4rena.com/audits/2023-05-juicebox-buyback-delegate#top)                                    | May       2023 | Code4rena | Not public                                         | 16/139   |
 | [Teller](https://audits.sherlock.xyz/contests/62)                                                                 | April     2023 | Sherlock  | [Link](/contests/Teller/findings.md)               | 8/101    |
 | [Asymmetry](https://code4rena.com/audits/2023-03-asymmetry-contest#top)                                           | March     2023 | Code4rena | [Link](/contests/Asymmetry/findings.md)            | 6/344    |
 
