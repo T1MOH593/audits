@@ -7,7 +7,7 @@ Feel free to reach out for security review via [X](https://twitter.com/0xT1MOH) 
 | Project                                                                                                           | Date           | Platform  | My findings                                        | Ranking  |
 | -------                                                                                                           | ----           | --------  | --------                                           | -------  |
 | [JOJO Update](https://audits.sherlock.xyz/contests/136)                                                           | January   2024 | Sherlock  | [Link](/contests/JOJOUpdate/findings.md)           | 5/26     |
-| [Metamorpho](https://cantina.xyz/competitions/8409a0ce-6c21-4cc9-8ef2-bd77ce7425af)                               | November  2023 | Cantina   | [Link](/contests/Metamorpho/findings.md)           | 5/82     |
+| [Metamorpho](https://cantina.xyz/competitions/8409a0ce-6c21-4cc9-8ef2-bd77ce7425af)                               | November  2023 | Cantina   | Not public                                         | 5/82     |
 | [Canto](https://code4rena.com/audits/2023-11-canto-application-specific-dollars-and-bonding-curves-for-1155s#top) | November  2023 | Code4rena | [Link](/contests/KelpDAO/findings.md)              | 9/194    |
 | [Beta Finance](https://code4rena.com/audits/2023-11-beta-finance-invitational#top)                                | November  2023 | Code4rena | [Link](/contests/BetaFinance/findings.md)          | 2/5      |
 | [Wildcat](https://code4rena.com/audits/2023-10-the-wildcat-protocol#top)                                          | October   2023 | Code4rena | [Link](/contests/Wildcat/findings.md)              | 16/219   |
@@ -21,7 +21,6 @@ Feel free to reach out for security review via [X](https://twitter.com/0xT1MOH) 
 | [Tangible](https://code4rena.com/audits/2023-08-tangible-caviar#top)                                              | August    2023 | Code4rena | [Link](/contests/Tangible/findings.md)             | 12/186   |
 | [Moonwell](https://code4rena.com/audits/2023-07-moonwell#top)                                                     | July      2023 | Code4rena | [Link](/contests/Moonwell/findings.md)             | 2/111    |
 | [Arcade](https://code4rena.com/audits/2023-07-arcadexyz#top)                                                      | July      2023 | Code4rena | [Link](/contests/Arcade/findings.md)               | 5/166    |
-
 | [Axelar](https://code4rena.com/audits/2023-07-axelar-network#top)                                                 | July      2023 | Code4rena | [Link](/contests/Axelar/findings.md)               | 9/146    |
 | [Maia DAO](https://code4rena.com/audits/2023-05-maia-dao-ecosystem#top)                                           | June      2023 | Code4rena | [Link](/contests/MaiaDAO/findings.md)              | 8/168    |
 | [Llama](https://code4rena.com/audits/2023-06-llama#top)                                                           | June      2023 | Code4rena | [Link](/contests/Llama/findings.md)                | 8/107    |
