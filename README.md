@@ -1,7 +1,7 @@
 # Audit Track Record - T1MOH
 Here is public profile built during 2023: https://code4rena.com/@T1MOH
 
-Feel free to reach out for security review via [X](https://twitter.com/0xT1MOH) or Discord @T1MOH
+Feel free to reach out via [X](https://twitter.com/0xT1MOH) or Discord @T1MOH
 
 ## Engagements in Pashov Audit Group
 | Project         | Date          | Report                                                                                         |
