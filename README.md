@@ -10,11 +10,11 @@ Feel free to reach out for security review via [X](https://twitter.com/0xT1MOH) 
 | [Metamorpho](https://cantina.xyz/competitions/8409a0ce-6c21-4cc9-8ef2-bd77ce7425af)                               | November  2023 | Cantina   | [Link](/contests/Metamorpho/findings.md)           | 5/82     |
 | [Canto](https://code4rena.com/audits/2023-11-canto-application-specific-dollars-and-bonding-curves-for-1155s#top) | November  2023 | Code4rena | [Link](/contests/KelpDAO/findings.md)              | 9/194    |
 | [Beta Finance](https://code4rena.com/audits/2023-11-beta-finance-invitational#top)                                | November  2023 | Code4rena | [Link](/contests/BetaFinance/findings.md)          | 2/5      |
-| [Wildcat](https://code4rena.com/audits/2023-10-the-wildcat-protocol#top)                                          | October   2023 | Code4rena | [Link](/contests/Wildcat/findings.md)              | 16/      |
-| [Open Dollar](https://code4rena.com/audits/2023-10-open-dollar#top)                                               | October   2023 | Code4rena | [Link](/contests/OpenDollar/findings.md)           | 7/       |
-| [Brahma](https://code4rena.com/audits/2023-10-brahma#top)                                                         | October   2023 | Code4rena | [Link](/contests/Brahma/findings.md)               | 6/       |
+| [Wildcat](https://code4rena.com/audits/2023-10-the-wildcat-protocol#top)                                          | October   2023 | Code4rena | [Link](/contests/Wildcat/findings.md)              | 16/219   |
+| [Open Dollar](https://code4rena.com/audits/2023-10-open-dollar#top)                                               | October   2023 | Code4rena | [Link](/contests/OpenDollar/findings.md)           | 7/136    |
+| [Brahma](https://code4rena.com/audits/2023-10-brahma#top)                                                         | October   2023 | Code4rena | [Link](/contests/Brahma/findings.md)               | 6/186    |
 | [DittoETH](https://www.codehawks.com/contests/clm871gl00001mp081mzjdlwc)                                          | September 2023 | Codehawks | [Link](/contests/DittoETH/findings.md)             | 13/80    |
-| [Dopex](https://code4rena.com/audits/2023-08-dopex#top)                                                           | September 2023 | Code4rena | [Link](/contests/Dopex/findings.md)                | 19/      |
+| [Dopex](https://code4rena.com/audits/2023-08-dopex#top)                                                           | September 2023 | Code4rena | [Link](/contests/Dopex/findings.md)                | 19/366   |
 | [Sparkn](https://www.codehawks.com/contests/cllcnja1h0001lc08z7w0orxx)                                            | August    2023 | Codehawks | [Link](/contests/Sparkn/findings.md)               | 10/100   |
 | [Shell Protocol](https://code4rena.com/audits/2023-08-shell-protocol#top)                                         | August    2023 | Code4rena | [Link](/contests/Shell/findings.md)                | 7/       |
 | [Good Entry](https://code4rena.com/audits/2023-08-good-entry#top)                                                 | August    2023 | Code4rena | [Link](/contests/GoodEntry/findings.md)            | 10/      |
@@ -30,7 +30,7 @@ Feel free to reach out for security review via [X](https://twitter.com/0xT1MOH) 
 | [Juicebox](https://code4rena.com/audits/2023-05-juicebox-buyback-delegate#top)                                    | May       2023 | Code4rena | Not public                                         | 16/      |
 | [JOJO Exchange](https://audits.sherlock.xyz/contests/70)                                                          | April     2023 | Sherlock  | [Link](/contests/JOJO_Exchange/findings.md)        | 19/114   |
 | [Teller](https://audits.sherlock.xyz/contests/62)                                                                 | April     2023 | Sherlock  | [Link](/contests/Teller/findings.md)               | 8/101    |
-| [Asymmetry](https://code4rena.com/audits/2023-03-asymmetry-contest#top)                                           | March     2023 | Code4rena | [Link](/contests/Asymmetry/findings.md)            | 6/       |
+| [Asymmetry](https://code4rena.com/audits/2023-03-asymmetry-contest#top)                                           | March     2023 | Code4rena | [Link](/contests/Asymmetry/findings.md)            | 6/344    |
 
 
 
