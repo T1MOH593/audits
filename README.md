@@ -18,7 +18,7 @@ Feel free to reach out for security review via [X](https://twitter.com/0xT1MOH) 
 | -------                                                                                                           | ----           | --------  | --------                                           | -------  |
 | [JOJO Update](https://audits.sherlock.xyz/contests/136)                                                           | January   2024 | Sherlock  | [Link](/contests/JOJOUpdate/findings.md)           | 5/26     |
 | [Metamorpho](https://cantina.xyz/competitions/8409a0ce-6c21-4cc9-8ef2-bd77ce7425af)                               | November  2023 | Cantina   | Not public                                         | 5/82     |
-| [Canto](https://code4rena.com/audits/2023-11-canto-application-specific-dollars-and-bonding-curves-for-1155s#top) | November  2023 | Code4rena | [Link](/contests/KelpDAO/findings.md)              | 9/194    |
+| [Canto](https://code4rena.com/audits/2023-11-canto-application-specific-dollars-and-bonding-curves-for-1155s#top) | November  2023 | Code4rena | [Link](/contests/Canto/findings.md)              | 9/194    |
 | [Beta Finance](https://code4rena.com/audits/2023-11-beta-finance-invitational#top)                                | November  2023 | Code4rena | [Link](/contests/BetaFinance/findings.md)          | 2/5      |
 | [Open Dollar](https://code4rena.com/audits/2023-10-open-dollar#top)                                               | October   2023 | Code4rena | [Link](/contests/OpenDollar/findings.md)           | 7/136    |
 | [Brahma](https://code4rena.com/audits/2023-10-brahma#top)                                                         | October   2023 | Code4rena | [Link](/contests/Brahma/findings.md)               | 6/186    |
