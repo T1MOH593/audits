@@ -3,6 +3,16 @@ Here is public profile built during 2023: https://code4rena.com/@T1MOH
 
 Feel free to reach out for security review via [X](https://twitter.com/0xT1MOH) or Discord @T1MOH
 
+## Engagements in Pashov Audit Group
+| Project         | Date          | Report                                                                                         |
+| -------         | ----          | ------                                                                                         |
+| Private project | December 2023 | Not public yet                                                                                 |
+| Gains Staking   | December 2023 | [Link](https://github.com/pashov/audits/blob/master/team/pdf/GainsNetwork-security-review.pdf) |
+| Catalyst        | December 2023 | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Catalyst-security-review.pdf)     |
+| Kekotron AMM    | January 2024  | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Kekotron-security-review.pdf)     |
+| Private project | February 2024 | Not public yet                                                                                 |
+| Private project | February 2024 | Not public yet                                                                                 |
+
 ## Contests
 | Project                                                                                                           | Date           | Platform  | My findings                                        | Ranking  |
 | -------                                                                                                           | ----           | --------  | --------                                           | -------  |
