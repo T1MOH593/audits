@@ -6,14 +6,15 @@ Repo contains most of my audits done so far.
 Feel free to reach out via [X](https://twitter.com/0xT1MOH) or Discord @T1MOH
 
 ## Engagements in Pashov Audit Group
-| Project         | Date          | Report                                                                                         |
-| -------         | ----          | ------                                                                                         |
-| Private project | December 2023 | Not public yet                                                                                 |
+| Project         | Date          | Report                                         |
+| -------         | ----          | ------                                         |
+| Nume            | December 2023 | [Link](/team/Nume-security-review.pdf)         |
 | Gains Staking   | December 2023 | [Link](/team/GainsNetwork-security-review.pdf) |
 | Catalyst        | December 2023 | [Link](/team/Catalyst-security-review.pdf)     |
 | Kekotron AMM    | January 2024  | [Link](/team/Kekotron-security-review.pdf)     |
-| Private project | February 2024 | Not public yet                                                                                 |
-| Private project | February 2024 | Not public yet                                                                                 |
+| Increment       | February 2024 | [Link](/team/Increment-security-review.pdf)    |
+| Private project | February 2024 | Not public yet                                 |
+| Private project | March 2024    | Not public yet                                 |
 
 ## Contests
 | Project                                                                                                           | Date           | Platform  | My findings                                        | Ranking  |
