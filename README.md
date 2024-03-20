@@ -16,6 +16,7 @@ Feel free to reach out via [X](https://twitter.com/0xT1MOH) or Discord @T1MOH
 | Private project | February 2024 | Not public yet                                 |
 | Private project | March 2024    | Not public yet                                 |
 | Private project | March 2024    | Not public yet                                 |
+| Private project | March 2024    | Not public yet                                 |
 
 ## Contests
 | Project                                                                                                           | Date           | Platform  | My findings                                        | Ranking  |
