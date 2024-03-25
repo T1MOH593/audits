@@ -6,17 +6,18 @@ Repo contains most of my audits done so far.
 Feel free to reach out via [X](https://twitter.com/0xT1MOH) or Discord @T1MOH
 
 ## Engagements in Pashov Audit Group
-| Project         | Date          | Report                                         |
-| -------         | ----          | ------                                         |
-| Nume            | December 2023 | [Link](/team/Nume-security-review.pdf)         |
-| Gains Staking   | December 2023 | [Link](/team/GainsNetwork-security-review.pdf) |
-| Catalyst        | December 2023 | [Link](/team/Catalyst-security-review.pdf)     |
-| Kekotron AMM    | January 2024  | [Link](/team/Kekotron-security-review.pdf)     |
-| Increment       | February 2024 | [Link](/team/Increment-security-review.pdf)    |
-| Private project | February 2024 | Not public yet                                 |
-| Private project | March 2024    | Not public yet                                 |
-| Private project | March 2024    | Not public yet                                 |
-| Private project | March 2024    | Not public yet                                 |
+| Project         | Date          | Report                                           |
+| -------         | ----          | ------                                           |
+| Private project | March 2024    | Not public yet                                   |
+| Fyde            | March 2024    | [Link](/team/Fyde-security-review.pdf)           |
+| Increment       | February 2024 | [Link](/team/Increment-security-review.pdf)      |
+| Frontrun Market | February 2024 | [Link](/team/FrontrunMarket-security-review.pdf) |
+| Private project | February 2024 | Not public yet                                   |
+| Kekotron AMM    | January 2024  | [Link](/team/Kekotron-security-review.pdf)       |
+| Catalyst        | December 2023 | [Link](/team/Catalyst-security-review.pdf)       |
+| Gains Staking   | December 2023 | [Link](/team/GainsNetwork-security-review.pdf)   |
+| Nume            | December 2023 | [Link](/team/Nume-security-review.pdf)           |
+
 
 ## Contests
 | Project                                                                                                           | Date           | Platform  | My findings                                        | Ranking  |
