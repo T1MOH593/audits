@@ -8,11 +8,12 @@ Feel free to reach out via [X](https://twitter.com/0xT1MOH) or Discord @T1MOH
 ## Engagements in Pashov Audit Group
 | Project         | Date          | Report                                           |
 | -------         | ----          | ------                                           |
+| Reya Network    | April 2024    | Not public yet                                   |
 | Sofamon         | March 2024    | [Link](/team/Sofamon-security-review.pdf)        |
 | Fyde            | March 2024    | [Link](/team/Fyde-security-review.pdf)           |
 | Increment       | February 2024 | [Link](/team/Increment-security-review.pdf)      |
 | Frontrun Market | February 2024 | [Link](/team/FrontrunMarket-security-review.pdf) |
-| Private project | February 2024 | Not public yet                                   |
+| Caldera         | February 2024 | Not public                                       |
 | Kekotron AMM    | January 2024  | [Link](/team/Kekotron-security-review.pdf)       |
 | Catalyst        | December 2023 | [Link](/team/Catalyst-security-review.pdf)       |
 | Gains Staking   | December 2023 | [Link](/team/GainsNetwork-security-review.pdf)   |
