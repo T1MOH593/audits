@@ -8,7 +8,7 @@ Feel free to reach out via [X](https://twitter.com/0xT1MOH) or Discord @T1MOH
 ## Engagements in Pashov Audit Group
 | Project         | Date          | Report                                           |
 | -------         | ----          | ------                                           |
-| Reya Network    | April 2024    | Not public yet                                   |
+| Reya Network    | April 2024    | [Link](/team/ReyaNetwork-security-review.pdf)    |
 | Sofamon         | March 2024    | [Link](/team/Sofamon-security-review.pdf)        |
 | Fyde            | March 2024    | [Link](/team/Fyde-security-review.pdf)           |
 | Increment       | February 2024 | [Link](/team/Increment-security-review.pdf)      |
