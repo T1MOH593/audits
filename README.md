@@ -8,6 +8,11 @@ Feel free to reach out via [X](https://twitter.com/0xT1MOH) or Discord @T1MOH
 ## Engagements in Pashov Audit Group
 | Project         | Date          | Report                                           |
 | -------         | ----          | ------                                           |
+| Reya Network (2)| October 2024  | Not public                                       |
+| LaPoste         | October 2024  | Not public                                       |
+| Ethena          | October 2024  | Not public                                       |
+| Moar            | June 2024     | [Link](/team/MoarCandy-security-review.pdf)      |
+| Bio             | June 2024     | [Link](/team/Bio-security-review.pdf)            |
 | Sage Terminal   | April 2024    | [Link](/team/EVTerminal-security-review.pdf)     |
 | Karak           | April 2024    | [Link](/team/Karak-security-review.pdf)          |
 | Reya Network    | April 2024    | [Link](/team/ReyaNetwork-security-review.pdf)    |
