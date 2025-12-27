@@ -5,42 +5,40 @@ Repo contains most of my audits done so far.
 
 Feel free to reach out via [X](https://twitter.com/0xT1MOH) or Discord @T1MOH
 
-## Engagements in Spearbit
-| Project         | Date                    | Report                                             |
-| -------         | ----                    | ------                                             |
-| Etherex Exchange| September-October  2025 | [Link](/spearbit/Etherex-security-review.pdf)      |
-| Pinto           | April    2025           | [Link](/spearbit/Pinto-security-review.pdf)        |
-| AAVE on Aptos   | March-April 2025        | Not public                                         |
-| Pinto           | February 2025           | [Link](/spearbit/PintoSiloed-security-review.pdf)  |
-| Not public      | February 2025           | Not public                                         |
-| Not public      | January 2025            | Not public                                         |
-
-## Engagements in Pashov Audit Group
-| Project         | Date          | Report                                             |
-| -------         | ----          | ------                                             |
-| BuyBurner       | December 2024 | [Link](/pashov/BuyBurner-security-review.pdf)      |
-| Vite            | December 2024 | Not public                                         |
-| Resolv          | December 2024 | [Link](/pashov/Resolv-security-review.pdf)         |
-| Ulti            | November 2024 | [Link](/pashov/ULTI-security-review.pdf)           |
-| SXT             | November 2024 | Not public                                         |
-| Hyperas         | October 2024  | Not public                                         |
-| Reya Network (2)| October 2024  | [Link](/pashov/Reya-security-review.pdf)           |
-| LaPoste         | October 2024  | [Link](/pashov/LaPoste-security-review.pdf)        |
-| Ethena          | October 2024  | [Link](/pashov/Ethena-security-review.pdf)         |
-| Moar            | June 2024     | [Link](/pashov/MoarCandy-security-review.pdf)      |
-| Bio             | June 2024     | [Link](/pashov/Bio-security-review.pdf)            |
-| Sage Terminal   | April 2024    | [Link](/pashov/EVTerminal-security-review.pdf)     |
-| Karak           | April 2024    | [Link](/pashov/Karak-security-review.pdf)          |
-| Reya Network    | April 2024    | [Link](/pashov/ReyaNetwork-security-review.pdf)    |
-| Sofamon         | March 2024    | [Link](/pashov/Sofamon-security-review.pdf)        |
-| Fyde            | March 2024    | [Link](/pashov/Fyde-security-review.pdf)           |
-| Increment       | February 2024 | [Link](/pashov/Increment-security-review.pdf)      |
-| Frontrun Market | February 2024 | [Link](/pashov/FrontrunMarket-security-review.pdf) |
-| Caldera         | February 2024 | Not public                                         |
-| Kekotron AMM    | January 2024  | [Link](/pashov/Kekotron-security-review.pdf)       |
-| Catalyst        | December 2023 | [Link](/pashov/Catalyst-security-review.pdf)       |
-| Gains Staking   | December 2023 | [Link](/pashov/GainsNetwork-security-review.pdf)   |
-| Nume            | December 2023 | [Link](/pashov/Nume-security-review.pdf)           |
+## Private Engagements
+| Project         | Date                    | Agency   | Report                                             |
+| -------         | ----                    | ------   | ------                                             |
+| Etherex Exchange| September-October  2025 | Spearbit | [Link](/spearbit/Etherex-security-review.pdf)      |
+| Pinto           | April    2025           | Spearbit | [Link](/spearbit/Pinto-security-review.pdf)        |
+| AAVE on Aptos   | March-April 2025        | Spearbit | Not public                                         |
+| Pinto           | February 2025           | Spearbit | [Link](/spearbit/PintoSiloed-security-review.pdf)  |
+| Not public      | February 2025           | Spearbit | Not public                                         |
+| Not public      | January 2025            | Spearbit | Not public                                         |
+| Not public      | December 2024           | BurraSec | Not public                                         |
+| Not public      | December 2024           | Cyfrin   | Not public                                         |
+| BuyBurner       | December 2024           | Pashov   | [Link](/pashov/BuyBurner-security-review.pdf)      |
+| Vite            | December 2024           | Pashov   | Not public                                         |
+| Resolv          | December 2024           | Pashov   | [Link](/pashov/Resolv-security-review.pdf)         |
+| Ulti            | November 2024           | Pashov   | [Link](/pashov/ULTI-security-review.pdf)           |
+| SXT             | November 2024           | Pashov   | Not public                                         |
+| Hyperas         | October 2024            | Pashov   | Not public                                         |
+| Reya Network (2)| October 2024            | Pashov   | [Link](/pashov/Reya-security-review.pdf)           |
+| LaPoste         | October 2024            | Pashov   | [Link](/pashov/LaPoste-security-review.pdf)        |
+| Ethena          | October 2024            | Pashov   | [Link](/pashov/Ethena-security-review.pdf)         |
+| Moar            | June 2024               | Pashov   | [Link](/pashov/MoarCandy-security-review.pdf)      |
+| Bio             | June 2024               | Pashov   | [Link](/pashov/Bio-security-review.pdf)            |
+| Sage Terminal   | April 2024              | Pashov   | [Link](/pashov/EVTerminal-security-review.pdf)     |
+| Karak           | April 2024              | Pashov   | [Link](/pashov/Karak-security-review.pdf)          |
+| Reya Network    | April 2024              | Pashov   | [Link](/pashov/ReyaNetwork-security-review.pdf)    |
+| Sofamon         | March 2024              | Pashov   | [Link](/pashov/Sofamon-security-review.pdf)        |
+| Fyde            | March 2024              | Pashov   | [Link](/pashov/Fyde-security-review.pdf)           |
+| Increment       | February 2024           | Pashov   | [Link](/pashov/Increment-security-review.pdf)      |
+| Frontrun Market | February 2024           | Pashov   | [Link](/pashov/FrontrunMarket-security-review.pdf) |
+| Caldera         | February 2024           | Pashov   | Not public                                         |
+| Kekotron AMM    | January 2024            | Pashov   | [Link](/pashov/Kekotron-security-review.pdf)       |
+| Catalyst        | December 2023           | Pashov   | [Link](/pashov/Catalyst-security-review.pdf)       |
+| Gains Staking   | December 2023           | Pashov   | [Link](/pashov/GainsNetwork-security-review.pdf)   |
+| Nume            | December 2023           | Pashov   | [Link](/pashov/Nume-security-review.pdf)           |
 
 ## Contests
 | Project                                                                                                           | Date           | Platform  | Ranking    |
