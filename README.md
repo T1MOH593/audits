@@ -8,6 +8,12 @@ Feel free to reach out via [X](https://twitter.com/0xT1MOH) or Discord @T1MOH
 ## Engagements in Pashov Audit Group
 | Project         | Date          | Report                                           |
 | -------         | ----          | ------                                           |
+| BuyBurner       | December 2024 | Not public                                       |
+| Vite            | December 2024 | Not public                                       |
+| Resolv          | December 2024 | Not public                                       |
+| Ulti            | November 2024 | Not public                                       |
+| SXT             | November 2024 | Not public                                       |
+| Hyperas         | October 2024  | Not public                                       |
 | Reya Network (2)| October 2024  | Not public                                       |
 | LaPoste         | October 2024  | Not public                                       |
 | Ethena          | October 2024  | Not public                                       |
