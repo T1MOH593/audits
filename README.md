@@ -8,14 +8,14 @@ Feel free to reach out via [X](https://twitter.com/0xT1MOH) or Discord @T1MOH
 ## Private Engagements
 | Project         | Date                    | Agency   | Report                                             |
 | -------         | ----                    | ------   | ------                                             |
+| Not public      | December 2025           | BurraSec | Not public                                         |
+| Not public      | December 2025           | Cyfrin   | Not public                                         |
 | Etherex Exchange| September-October  2025 | Spearbit | [Link](/spearbit/Etherex-security-review.pdf)      |
 | Pinto           | April    2025           | Spearbit | [Link](/spearbit/Pinto-security-review.pdf)        |
 | AAVE on Aptos   | March-April 2025        | Spearbit | Not public                                         |
 | Pinto           | February 2025           | Spearbit | [Link](/spearbit/PintoSiloed-security-review.pdf)  |
 | Not public      | February 2025           | Spearbit | Not public                                         |
 | Not public      | January 2025            | Spearbit | Not public                                         |
-| Not public      | December 2024           | BurraSec | Not public                                         |
-| Not public      | December 2024           | Cyfrin   | Not public                                         |
 | BuyBurner       | December 2024           | Pashov   | [Link](/pashov/BuyBurner-security-review.pdf)      |
 | Vite            | December 2024           | Pashov   | Not public                                         |
 | Resolv          | December 2024           | Pashov   | [Link](/pashov/Resolv-security-review.pdf)         |
