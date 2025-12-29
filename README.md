@@ -8,6 +8,7 @@ Feel free to reach out via [X](https://twitter.com/0xT1MOH) or Discord @T1MOH
 ## Private Engagements
 | Project         | Date                    | Agency   | Report                                             |
 | -------         | ----                    | ------   | ------                                             |
+| Not public      | December 2025           | Private  | Not public                                         |
 | Not public      | December 2025           | BurraSec | Not public                                         |
 | Not public      | December 2025           | Cyfrin   | Not public                                         |
 | Etherex Exchange| September-October  2025 | Spearbit | [Link](/spearbit/Etherex-security-review.pdf)      |
