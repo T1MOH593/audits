@@ -1,9 +1,9 @@
 # Audit Track Record - T1MOH
-Here is public profile built during 2023: https://code4rena.com/@T1MOH
+Here is public profile: https://cantina.xyz/u/T1MOH
 
 Repo contains most of my audits done so far.
 
-Feel free to reach out via [X](https://twitter.com/0xT1MOH) or Discord @T1MOH
+Feel free to reach out via X: https://x.com/0xT1MOH
 
 ## Private Engagements
 | Project         | Date                    | Agency   | Report                                             |
