@@ -8,6 +8,8 @@ Feel free to reach out via X: https://x.com/0xT1MOH
 ## Private Engagements
 | Project         | Date                    | Agency   | Report                                             |
 | -------         | ----                    | ------   | ------                                             |
+| Not public      | January 2025            | Spearbit | Not public                                         |
+| Not public      | January 2025            | Spearbit | Not public                                         |
 | CxChain         | January 2025            | Private  | Not public                                         |
 | Not public      | January 2025            | BurraSec | Not public                                         |
 | CxChain         | December 2025           | Private  | Not public                                         |
