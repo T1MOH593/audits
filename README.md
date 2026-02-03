@@ -8,6 +8,7 @@ Feel free to reach out via X: https://x.com/0xT1MOH
 ## Private Engagements
 | Project         | Date                    | Agency   | Report                                             |
 | -------         | ----                    | ------   | ------                                             |
+| Buck            | January 2026            | Spearbit | [Link](/spearbit/Buck-Labs-Spearbit-Security-Review-January-2026.pdf) |
 | Buck            | January 2025            | Spearbit | Not public                                         |
 | Not public      | January 2025            | Spearbit | Not public                                         |
 | CxChain         | January 2025            | Private  | Not public                                         |
