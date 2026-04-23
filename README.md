@@ -16,7 +16,7 @@ Feel free to reach out via X: https://x.com/0xT1MOH
 | Buck            | January 2026            | Spearbit | [Link](/spearbit/Buck-Labs-Spearbit-Security-Review-January-2026.pdf) |
 | Aztec           | January 2026            | Spearbit | Not public                                         |
 | CxChain         | January 2026            | Private  | Not public                                         |
-| Not public      | January 2026            | BurraSec | Not public                                         |
+| Zama            | January 2026            | BurraSec | Not public                                         |
 | CxChain         | December 2025           | Private  | Not public                                         |
 | Zama            | December 2025           | BurraSec | Not public                                         |
 | Not public      | December 2025           | Cyfrin   | Not public                                         |
