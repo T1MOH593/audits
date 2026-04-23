@@ -14,11 +14,11 @@ Feel free to reach out via X: https://x.com/0xT1MOH
 | Mezzanine       | February 2026           | Sherlock | Not public                                         |
 | Not public      | February 2026           | Cyfrin   | Not public                                         |
 | Buck            | January 2026            | Spearbit | [Link](/spearbit/Buck-Labs-Spearbit-Security-Review-January-2026.pdf) |
-| Not public      | January 2026            | Spearbit | Not public                                         |
+| Aztec           | January 2026            | Spearbit | Not public                                         |
 | CxChain         | January 2026            | Private  | Not public                                         |
 | Not public      | January 2026            | BurraSec | Not public                                         |
 | CxChain         | December 2025           | Private  | Not public                                         |
-| Not public      | December 2025           | BurraSec | Not public                                         |
+| Zama            | December 2025           | BurraSec | Not public                                         |
 | Not public      | December 2025           | Cyfrin   | Not public                                         |
 | Etherex Exchange| September-October  2025 | Spearbit | [Link](/spearbit/Etherex-security-review.pdf)      |
 | Pinto (2)       | April    2025           | Spearbit | [Link](/spearbit/Pinto-security-review.pdf)        |
