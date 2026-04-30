@@ -8,6 +8,7 @@ Feel free to reach out via X: https://x.com/0xT1MOH
 ## Private Engagements
 | Project         | Date                    | Agency   | Report                                             |
 | -------         | ----                    | ------   | ------                                             |
+| Spiral Stake    | April 2026              | Sherlock | Not public                                         |
 | Not public      | April 2026              | Cyfrin   | Not public                                         |
 | Permutize       | April 2026              | Sherlock | Not public                                         |
 | Rain            | March 2026              | Sherlock | Not public                                         |
