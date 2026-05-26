@@ -8,6 +8,7 @@ Feel free to reach out via X: https://x.com/0xT1MOH
 ## Private Engagements
 | Project         | Date                    | Agency   | Report                                             |
 | -------         | ----                    | ------   | ------                                             |
+| Sodax           | May 2026                | Sherlock | Not public                                         |
 | Not public      | May 2026                | Cyfrin   | Not public                                         |
 | Spiral Stake    | April 2026              | Sherlock | Not public                                         |
 | Not public      | April 2026              | Cyfrin   | Not public                                         |
