@@ -8,6 +8,8 @@ Feel free to reach out via X: https://x.com/0xT1MOH
 ## Private Engagements
 | Project         | Date                    | Agency   | Report                                             |
 | -------         | ----                    | ------   | ------                                             |
+| Rain (2)        | June 2026               | Sherlock | Not public                                         |
+| Altitude        | June 2026               | Private  | Not public                                         |
 | Gondor.fi       | June 2026               | Sherlock | Not public                                         |
 | Sodax (2)       | May 2026                | Sherlock | Not public                                         |
 | Permutize (2)   | May 2026                | Sherlock | Not public                                         |
