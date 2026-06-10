@@ -30,6 +30,7 @@ Feel free to reach out via X: https://x.com/0xT1MOH
 | Zama            | December 2025           | BurraSec | Not public                                         |
 | Status L2       | December 2025           | Cyfrin   | Not public                                         |
 | Etherex Exchange| September-October  2025 | Spearbit | [Link](/spearbit/Etherex-security-review.pdf)      |
+| Arbitrage bot   | September 2025          | Private  | Not public                                         |
 | Pinto (2)       | April    2025           | Spearbit | [Link](/spearbit/Pinto-security-review.pdf)        |
 | AAVE on Aptos   | March-April 2025        | Spearbit | Not public                                         |
 | Pinto           | February 2025           | Spearbit | [Link](/spearbit/PintoSiloed-security-review.pdf)  |
