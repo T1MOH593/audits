@@ -8,26 +8,27 @@ Feel free to reach out via X: https://x.com/0xT1MOH
 ## Private Engagements
 | Project         | Date                    | Agency   | Report                                             |
 | -------         | ----                    | ------   | ------                                             |
+| Parallel (3)     | June 2026               | Cyfrin   | Not public                                         |
 | Rain (2)        | June 2026               | Sherlock | Not public                                         |
 | Altitude        | June 2026               | Private  | Not public                                         |
 | Gondor.fi       | June 2026               | Sherlock | Not public                                         |
 | Sodax (2)       | May 2026                | Sherlock | Not public                                         |
 | Permutize (2)   | May 2026                | Sherlock | Not public                                         |
 | Sodax           | May 2026                | Sherlock | Not public                                         |
-| Not public      | May 2026                | Cyfrin   | Not public                                         |
+| Parallel (2)    | May 2026                | Cyfrin   | Not public                                         |
 | Spiral Stake    | April 2026              | Sherlock | Not public                                         |
-| Not public      | April 2026              | Cyfrin   | Not public                                         |
+| Armada          | April 2026              | Cyfrin   | Not public                                         |
 | Permutize       | April 2026              | Sherlock | Not public                                         |
 | Rain            | March 2026              | Sherlock | Not public                                         |
 | Mezzanine       | February 2026           | Sherlock | Not public                                         |
-| Not public      | February 2026           | Cyfrin   | Not public                                         |
+| Parallel        | February 2026           | Cyfrin   | Not public                                         |
 | Buck            | January 2026            | Spearbit | [Link](/spearbit/Buck-Labs-Spearbit-Security-Review-January-2026.pdf) |
 | Aztec           | January 2026            | Spearbit | Not public                                         |
 | CxChain (2)     | January 2026            | Private  | Not public                                         |
 | Zama            | January 2026            | BurraSec | Not public                                         |
 | CxChain         | December 2025           | Private  | Not public                                         |
 | Zama            | December 2025           | BurraSec | Not public                                         |
-| Not public      | December 2025           | Cyfrin   | Not public                                         |
+| Status L2       | December 2025           | Cyfrin   | Not public                                         |
 | Etherex Exchange| September-October  2025 | Spearbit | [Link](/spearbit/Etherex-security-review.pdf)      |
 | Pinto (2)       | April    2025           | Spearbit | [Link](/spearbit/Pinto-security-review.pdf)        |
 | AAVE on Aptos   | March-April 2025        | Spearbit | Not public                                         |
