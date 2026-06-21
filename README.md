@@ -46,6 +46,7 @@ Feel free to reach out via X: https://x.com/0xT1MOH
 | Reya Network (2)| October 2024            | Pashov   | [Link](/pashov/Reya-security-review.pdf)           |
 | LaPoste         | October 2024            | Pashov   | [Link](/pashov/LaPoste-security-review.pdf)        |
 | Ethena          | October 2024            | Pashov   | [Link](/pashov/Ethena-security-review.pdf)         |
+| Beanstalk       | September 2024          | Private  | Not public                                         |
 | Moar            | June 2024               | Pashov   | [Link](/pashov/MoarCandy-security-review.pdf)      |
 | Bio             | June 2024               | Pashov   | [Link](/pashov/Bio-security-review.pdf)            |
 | Sage Terminal   | April 2024              | Pashov   | [Link](/pashov/EVTerminal-security-review.pdf)     |
