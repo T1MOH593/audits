@@ -8,7 +8,8 @@ Feel free to reach out via X: https://x.com/0xT1MOH
 ## Private Engagements
 | Project         | Date                    | Agency   | Report                                             |
 | -------         | ----                    | ------   | ------                                             |
-| Parallel (3)     | June 2026               | Cyfrin   | Not public                                         |
+| Base Dollar     | June 2026               | Sherlock | Not public                                         |
+| Parallel (3)    | June 2026               | Cyfrin   | Not public                                         |
 | Rain (2)        | June 2026               | Sherlock | Not public                                         |
 | Altitude        | June 2026               | Private  | Not public                                         |
 | Gondor.fi       | June 2026               | Sherlock | Not public                                         |
