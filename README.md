@@ -8,8 +8,9 @@ Feel free to reach out via X: https://x.com/0xT1MOH
 ## Private Engagements
 | Project         | Date                    | Agency   | Report                                             |
 | -------         | ----                    | ------   | ------                                             |
+| Altitude (4)    | August 2026             | Private  | Not public                                         |
 | Altitude (3)    | July 2026               | Private  | Not public                                         |
-| Not public      | July 2026               | BurraSec | Not public                                         |
+| Mentat Minds    | July 2026               | BurraSec | Not public                                         |
 | Gondor.fi (2)   | July 2026               | Sherlock | Not public                                         |
 | Altitude (2)    | June 2026               | Private  | Not public                                         |
 | Base Dollar     | June 2026               | Sherlock | Not public                                         |
