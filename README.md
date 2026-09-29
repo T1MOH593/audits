@@ -8,6 +8,9 @@ Feel free to reach out via X: https://x.com/0xT1MOH
 ## Private Engagement
 | Project         | Date                    | Agency   | Report                                             |
 | -------         | ----                    | ------   | ------                                             |
+| EHI             | September 2026          | Sherlock | Not public                                         |
+| Organ           | September 2026          | Private  | Not public                                         |
+| Altitude (5)    | September 2026          | Private  | Not public                                         |
 | Gondor.fi (3)   | September 2026          | Sherlock | Not public                                         |
 | Altitude (4)    | August 2026             | Private  | Not public                                         |
 | Altitude (3)    | July 2026               | Private  | Not public                                         |
