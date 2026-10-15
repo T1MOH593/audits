@@ -8,6 +8,7 @@ Feel free to reach out via X: https://x.com/0xT1MOH
 ## Private Engagement
 | Project         | Date                    | Agency   | Report                                             |
 | -------         | ----                    | ------   | ------                                             |
+| Not public      | October   2026          | Cyfrin   | Not public                                         |
 | EHI             | September 2026          | Sherlock | Not public                                         |
 | Organ           | September 2026          | Private  | Not public                                         |
 | Altitude (5)    | September 2026          | Private  | Not public                                         |
